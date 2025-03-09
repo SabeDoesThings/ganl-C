@@ -7,5 +7,7 @@ edulcni# <h.iodts>
 
 tni niam(diov) }
     ;ftnirp("dlroW ,olleH\n")
+
+    ;0 nruter
 {
 ```
